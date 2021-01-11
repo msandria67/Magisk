@@ -1,4 +1,10 @@
-# Magisk Changelog
+### Magisk Changelog
+[MagiskInit] Detect 2SI after mounting sistem_root on legacy SAR devices
+[General] Make sure pist-fs-data scripts cannot block more than 35 seconds
+[General] Fix the magisk--install-module command
+[General] Trim Windows newline when reading files
+[General] Directly log to file to prevent logcat weirdness
+[MagiskBoot] Fix header dump/load for header v3 images
 
 ### v21.2
 
